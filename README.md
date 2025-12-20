@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Yaseen</h1>
-<h3 align="center">A passionate software engineer</h3>
-<h5 align="center"> I’m currently learning Jetpack compose</h3>
+<h3 align="center">A passionate Mobile app developer</h3>
 
 
 <div align="center">
